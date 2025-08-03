@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nihamanchem
-- 👀 I’m an ECE sophomore of IIT Guwahati
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a full-stack developer at BNY
+- 🌱 Summarisedly, I'm a corporate slave Mon-Fri and a koala Sat-Sun
+- 💞️ I’m a good developer by profession and I'm looking forward to collab with you in as many open-source contributions as possible.
+- 📫 I go by Niharika Manchem on LinkedIn, niha_manchem on Instagram.
 
 <!---
 nihamanchem/nihamanchem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
