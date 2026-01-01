@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nihamanchem
-- 👀 I’m a full-stack developer at BNY
+- 👀 I’m a full-stack developer having expertise in Angular, React, ReactNative, Springboot, MERN Stack, etc.
 - 🌱 Summarisedly, I'm a corporate slave Mon-Fri and a koala Sat-Sun
 - 💞️ I’m a good developer by profession and I'm looking forward to collab with you in as many open-source contributions as possible.
 - 📫 I go by Niharika Manchem on LinkedIn, niha_manchem on Instagram.
